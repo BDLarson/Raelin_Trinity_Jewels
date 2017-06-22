@@ -1,11 +1,5 @@
 User Guide: Raelin and the Trinity Jewels
 
-Getting started:
-    1) Run Clisp interface
-    2) (load "main.lisp")
-    3) (game-repl)
-    4) look
-
 Summary:
     This game is set in a fictitious village, where you play girl whose sister
     has been kidnapped by an evil shadow king. You must fight your way through
@@ -13,6 +7,12 @@ Summary:
     the 3 jewels, you can unlock the power that is hidden away at an old temple.
     Fight your way through enemies to save your sister and restore peace to the
     region.
+
+Getting started:
+    1) Run Clisp interface
+    2) (load "main.lisp")
+    3) (game-repl)
+    4) look
 
 Strategies:
     1) Do Not face the king head-on, you will lose right away.
