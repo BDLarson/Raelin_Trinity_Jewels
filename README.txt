@@ -1,10 +1,10 @@
 User Guide: Raelin and the Trinity Jewels
 
 Summary:
-    This game is set in a fictitious village, where you play girl whose sister
+    This game is set in a fictitious village, where you play a girl whose sister
     has been kidnapped by an evil shadow king. You must fight your way through
-    3 dungeons surrounding your village to collect ancient jewels. Once you have
-    the 3 jewels, you can unlock the power that is hidden away at an old temple.
+    three dungeons surrounding your village to collect ancient jewels. Once you have
+    the three jewels, you can unlock the power that is hidden away at an old temple.
     Fight your way through enemies to save your sister and restore peace to the
     region.
 
